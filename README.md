@@ -25,7 +25,7 @@ The third option will let you increase the amount of your inventory on hand.  Yo
 
 The final option will let you add a new item to the database.  You will be asked the name, department, price and quantity.  It will then add it to the database and then show the current inventory.
 
-![ScreenShot](screenshot5.jpg)
+![ScreenShot](screenshot6.jpg)
 
 
 I also used the Colors library to add a little color to it.  
